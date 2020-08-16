@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Cakes.lk</string>
+    <!-- Main view -->
+    <string name="main_employee">Employee</string>
+    <string name="main_view_employee">View Employee</string>
+    <string name="main_cake">Cakes</string>
+    <string name="main_view_cake">View Cakes</string>
+    <string name="main_supplier">Supplier</string>
+    <string name="main_view_supplier">View Supplier</string>
+    <string name="main_product">Order</string>
+    <string name="main_view_product">View Order</string>
+
+    <string name="add_cake">Adding Order</string>
+<string name="cake_name">Supplier Name</string>
+<string name="selling_price">Quantity</string>
+<string name="description">Total Amount</string>
+<string name="add_cakes">Add</string>
+<string name="cake_update">Editing Order</string>
+<string name="edit">Update</string>
+<string name="delete">Delete</string>
+<string name="Order_search">Search Order</string>
+
+<array name="category">
+<item>"Please select the Product"</item>
+<item>Eggs and Milks</item>
+<item>Vanilla and Choclate Essense</item>
+<item>Decorate Items</item>
+</array>
+
+<array name="cake">
+<item>Eggs and Milks</item>
+<item>Vanilla and Choclate Essense</item>
+<item>Decorate Items</item>
+
+</array>
+    <!-- Menu -->
+<string name="menu">Menu</string>
+<string name="profile_setting">Profile</string>
+<string name="logout">Log out</string>
+    <string name="eggs_and_milk">Eggs and Milk</string>
+    <string name="halal_farm">Halal Farm</string>
+</resources>
